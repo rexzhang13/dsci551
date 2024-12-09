@@ -2,9 +2,9 @@
 ## Minghua Zhang
 
 
-project.py        The main program (in python file)
+**project.py** :       The main program (in python file)
 
-data               The folder containing three csv files for uploading database
+**data**               The folder containing three csv files for uploading database
 
 
 CHATDB runs at the terminal line. To begin, one can type 'python project.py' 
