@@ -2,9 +2,10 @@
 ## Minghua Zhang
 
 
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+project.py        The main program (in python file)
+
+data               The folder containing three csv files for uploading database
+
 
 CHATDB runs at the terminal line. To begin, one can type 'python project.py' 
 
