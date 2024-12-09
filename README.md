@@ -1,5 +1,10 @@
 # DSCI551 Final Project - CHATDB
-# Minghua Zhang
+## Minghua Zhang
+
+
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 CHATDB runs at the terminal line. To begin, one can type 'python project.py' 
 
