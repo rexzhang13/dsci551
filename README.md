@@ -22,3 +22,5 @@ For example:
  After generating the queries, users can choose if they want to execute the queries that are just generated. 
  
  If they do, they then choose one of the queries to print out actual result of the query.
+
+For uploading new database, user can choose to upload 'usedcar.csv' and 'gym.csv' in the begining level and create corresponding new databases
