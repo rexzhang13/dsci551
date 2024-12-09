@@ -6,7 +6,7 @@
 
 **data**:               The folder containing three csv files for uploading database
 
-
+ 
 CHATDB runs at the terminal line. To begin, one can type 'python project.py' 
 
 Then user can follow the prompt to use existing database or using existing databases. 
